@@ -1,14 +1,15 @@
 [
   {
-    "modid": "examplemod",
-    "name": "ExampleMod",
-    "description": "Example mixined scala mod!",
+    "modid": "controlling",
+    "name": "ModernControlling",
+    "description": "Adds the ability to search for keybinds using their name in the KeyBinding menu, this allows players to easily find a key binding in the menu.",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "",
     "updateUrl": "",
     "authorList": [
-      "Author"
+      "Jaredlll08",
+      "Tapio"
     ],
     "credits": "",
     "logoFile": "",
